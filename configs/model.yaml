@@ -1,0 +1,4 @@
+model_params:
+  input_dim: 10
+  output_dim: 1
+
